@@ -18,7 +18,7 @@ const Sidebar = () => {
                 href="/"
                 className="flex justify-center sm:justify-start items-center py-2"
               >
-                <Image src='/doji-launch.png' alt="dojilaunch" size={20} />
+                <Image src='/tokenverse.png' alt="dojilaunch" size={20} />
               </Link>
             </Tooltip>
           </li>
