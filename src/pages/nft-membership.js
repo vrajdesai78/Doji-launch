@@ -103,7 +103,7 @@ const Dashboard = () => {
     <Layout>
       <Head>
         <title>Create NFT</title>
-        <meta name="description" content="tokenverse" />
+        <meta name="description" content="dojilaunch" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -151,7 +151,7 @@ const Dashboard = () => {
             id="name"
             name="name"
             label="Name"
-            placeholder="Tokenverse DAO"
+            placeholder="Doji Launch DAO"
             type="text"
             onChange={(e) => setName(e.target.value)}
             helper="This Can Be Your DAO Name or Special Access Collection"
@@ -160,7 +160,7 @@ const Dashboard = () => {
             id="description"
             name="description"
             label="Description"
-            placeholder="Tokenverse DAO Memberships"
+            placeholder="Doji Launch DAO Memberships"
             type="text"
             onChange={(e) => setDescription(e.target.value)}
             helper="Write Something About This NFT or Features"

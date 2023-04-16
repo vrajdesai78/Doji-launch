@@ -1,7 +1,7 @@
-# Tokenverse
-It provides an interactive no-code platform that allows users to create a community token and NFT memberships on multichains. Tokenverse empowers creators to build thriving web3 communities on multiple chains including Scroll, Mantle, Polygon zkEVM and Optimism mainnet. We desire to provide a launchpad that simplifies community, monetization, and growth. This is powerful.
+# Doji-Launch
+It provides an interactive no-code platform that allows users to create a community token and NFT memberships on multichains. Doji Launch empowers creators to build thriving web3 communities on multiple chains including Scroll, Mantle, Polygon zkEVM and Optimism mainnet. We desire to provide a launchpad that simplifies community, monetization, and growth. This is powerful.
 
-<img width="1438" alt="tokenverse" src="https://user-images.githubusercontent.com/79443588/227780630-d38db328-b4c7-4adf-91a7-c811fc501b80.png">
+<img width="1438" alt="Doji-Launch" src="https://user-images.githubusercontent.com/79443588/227780630-d38db328-b4c7-4adf-91a7-c811fc501b80.png">
 
 ## Prerequisites
 
@@ -13,8 +13,8 @@ Follow the instructions for local environment: The user must have Node.js and np
 
 Clone the repo via CLI:
 ```sh
-git clone https://github.com/vrajdesai78/tokenverse
-cd tokenverse
+git clone https://github.com/vrajdesai78/Doji-Launch
+cd Doji-Launch
 ```
 
 Install the required packages:

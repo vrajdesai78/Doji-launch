@@ -90,7 +90,7 @@ const Support = () => {
                         color="gray.700"
                         leftIcon={<MdEmail color="#363636" size="30px" />}
                       >
-                        help@tokenverse.us
+                        help@dojilaunch.us
                       </Button>
                       <Button
                         size="md"

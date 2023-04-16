@@ -91,7 +91,7 @@ const Dashboard = () => {
     <Layout>
       <Head>
         <title>Create Token</title>
-        <meta name="description" content="tokenverse" />
+        <meta name="description" content="doji-launch" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -104,7 +104,7 @@ const Dashboard = () => {
             <div className="font-bold text-xl mb-2">TOKEN</div>
             <div className="font-bold text-md mb-2">
               Mint a personal or a community token on a fixed supply Already
-              have a token? Import token into Tokenverse
+              have a token? Import token into Doji Launch
             </div>
           </div>
         </div>

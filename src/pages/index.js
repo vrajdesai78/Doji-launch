@@ -8,8 +8,8 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Tokenverse</title>
-        <meta name="description" content="tokenverse" />
+        <title>Doji Launch</title>
+        <meta name="description" content="dojilaunch" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -23,10 +23,10 @@ export default function Home() {
                   width="100"
                   height="100"
                   className="mx-auto animate__animated animate__zoomIn"
-                  alt="tokenverse"
+                  alt="dojilaunch"
                 />
                 <h1 className="text-4xl sm:text-5xl mt-[-3rem] font-extrabold text-[#E4E4ED] animate__animated animate__zoomIn">
-                  tokenverse
+                  Doji Launch
                 </h1>
                 <div className="text-4xl tracking-tight font-extrabold text-[#E4E4ED] sm:text-5xl md:text-7xl lg:px-32 space-y-5">
                   <h2 className="animate__animated animate__slideInRight">
@@ -41,7 +41,7 @@ export default function Home() {
                   </h3>
                 </div>
                 <div className="animate__animated animate__pulse">
-                  <GradientButton link="/dashboard" title="Use tokenverse" />
+                  <GradientButton link="/dashboard" title="Use dojilaunch" />
                 </div>
               </div>
             </div>
@@ -88,7 +88,7 @@ export default function Home() {
               <AnimationOnScroll animateIn="animate__slideInRight">
                 <h2 className="text-3xl font-medium text-[#E4E4ED] sm:text-5xl block">
                   <p>DAOs & Guilds</p>
-                  <p>build with tokenverse</p>
+                  <p>build with dojilaunch</p>
                 </h2>
               </AnimationOnScroll>
               <AnimationOnScroll animateIn="animate__slideInRight">

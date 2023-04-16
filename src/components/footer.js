@@ -7,11 +7,11 @@ const Footer = () => {
             {/* TODO: Add the logo here. */}
             <span className="text-md text-[#666666] hover:text-[#a1a1a1] sm:text-center dark:text-[#605e8a]">
               <a href="">
-                Tokenverse
+                Doji Launch
               </a>
             </span>
             <a
-              href="https://github.com/vrajdesai78/Tokenverse"
+              href="https://github.com/vrajdesai78/Doji-launch"
               target="_blank"
               className="text-[#666666] hover:text-[#a1a1a1] dark:text-[#605e8a]"
               rel="noreferrer"
@@ -22,7 +22,7 @@ const Footer = () => {
           <span className="text-md text-[#666666] hover:text-[#a1a1a1] sm:text-center dark:text-[#605e8a]">
             © {new Date().getFullYear()}{" "}
             <a href="" className="hover:underline">
-              Tokenverse
+              Doji Launch
             </a>
             . All Rights Reserved.
           </span>

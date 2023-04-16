@@ -78,7 +78,7 @@ const Dashboard = () => {
     <Layout>
       <Head>
         <title>Dashboard</title>
-        <meta name="description" content="tokenverse" />
+        <meta name="description" content="Doji Launch" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
